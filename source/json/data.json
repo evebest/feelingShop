@@ -1,0 +1,24 @@
+[
+  {
+    "id": 3,
+    "title": "Flowey",
+    "content": "행복한 이뭉솔1",
+    "price": 250000
+  },
+
+  {
+    "id": 4,
+    "title": "Baby shoes",
+    "content": "슬픈 이뭉솔1",
+    "price": 180000
+  },
+
+  {
+    "id": 5,
+    "title": "Red Herring",
+    "content": "졸린 이뭉솔1",
+    "price": 90000
+  }
+]
+
+
